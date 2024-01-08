@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-This is website build with simple code
-
-And we have used code with the comments
-
-
-Which make the code usable.
+this is a analysis of unemployment in india in various sector like Engineering, Arts, Bussiness, and many other different sector.
